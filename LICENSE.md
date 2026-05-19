@@ -1,4 +1,4 @@
-# 
+# elite bot sniper MEV extensions est le meilleur bot sniper MEV extensions avec détection de MEV et analyse des pools de liquidité. Sécurisé, fiable et optimisé pour les stratégies
 
 
 
